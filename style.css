@@ -1,0 +1,108 @@
+* {
+   padding: 0;
+   margin: 0;
+   font-family: 'Dancing Script', cursive;
+
+}
+
+header {
+   height: 100px;
+   width: 100%;
+   padding-top: 15px;
+   font-size: 34px;
+color: rgb(212, 255, 0);
+margin-bottom: 40px;
+}
+
+header h1 {
+   margin-left: 470px;
+}
+
+.list {
+   height: 750px;
+   width: 100%;
+   background-color: rgb(0, 0, 0);
+   background-image: url(./img/6_Bridge.jpg);
+   background-size: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   
+}
+.shaxzod{
+   display: flex;
+}
+.shakh {
+   height: 500px;
+   width: 500px;
+   border-color: #D4FF00;
+   border-style: solid;
+   border-radius: 45%;
+   border-width: 5px;
+   border-bottom-left-radius: 30px;
+   border-top-right-radius: 30px;
+   margin: auto;
+   padding-top: 10px;
+   background-color: gray ;
+   
+}
+
+.shakh_2 {
+   height: 480px;
+   width: 480px;
+   border-color:  #ddff00;
+   border-style: solid;
+   border-radius: 45%;
+   border-width: 4px;
+   border-bottom-right-radius: 30px;
+   border-top-left-radius: 30px;
+   margin: auto;
+   background-color: rgb(101, 101, 101);
+   padding-top: 10px;
+}
+
+.shakh-3 {
+   height: 460px;
+   width: 460px;
+   border-color: #D4FF00;
+   border-style: solid;
+   border-radius: 45%;
+   border-width: 4px;
+   border-bottom-left-radius: 30px;
+   border-top-right-radius: 30px;
+   margin: auto;
+   background-color: rgb(110, 110, 110);
+   padding-top: 5px;
+}
+
+.shakh_4 {
+   height: 440px;
+   width: 440px;
+   border-color: #D4FF00;
+   border-style: solid;
+   border-radius: 45%;
+   border-width: 4px;
+   border-bottom-right-radius: 30px;
+   border-top-left-radius: 30px;
+   margin: auto;
+   background-color: rgb(120, 120, 120);
+   padding-top: 7px;
+}
+
+.shakh_5 {
+   height: 420px;
+   width: 420px;
+   border-color: #D4FF00;
+   border-style: solid;
+   border-radius: 45%;
+   border-width: 4px;
+   border-bottom-left-radius: 30px;
+   border-top-right-radius: 30px;
+   margin: auto;
+   background-color: rgb(133, 133, 133);
+   padding-top: 5px;
+   background-image: url(./img/shaxzodj.jpg);
+   background-position: center;
+   background-size: 100%;
+   
+   
+}
